@@ -1,0 +1,59 @@
+<style type="text/css">  
+
+div.footnoteHolder { 
+line-height: 1.5; 
+padding-top: 100px;
+} 
+
+em.footnote { 
+vertical-align: super;
+font-size: 80%; 
+font-style: normal;
+position: relative;
+line-height: 1em;
+padding-left: 0.1em;
+padding-right: 0.1em;
+} 
+span.footnote { 
+vertical-align: super; 
+font-size: 90%; 
+} 
+
+ol.footnote { 
+padding-top: 15px;
+margin-left: 0em; 
+font-size: 95%; 
+line-height: 150%; 
+border-top: 1px #CCCCCC solid;
+background-position: 0 0;
+background-repeat: no-repeat;
+} 
+ol.footnote li { 
+list-style-type: decimal; 
+margin-left: 0em; 
+font-size: 100%; 
+color: #4a4a4a;
+line-height: 150%; 
+} 
+
+em.footnote2 { 
+vertical-align: super; 
+font-size: 100%; 
+} 
+ol.footnote2 { 
+padding-top: 15px;
+margin-left: 10px; 
+font-size: 100%; 
+line-height: 150%; 
+background: url(https://googledrive.com/host/0BxJlrr-sVc32dkI4SkJzRmF6Rlk/footnotes-bg.png);
+background-position: 0 0;
+background-repeat: no-repeat;
+} 
+ol.footnote2 li { 
+list-style-type: decimal; 
+margin-left: 10px; 
+font-size: 100%; 
+line-height: 150%; 
+} 
+
+</style> 

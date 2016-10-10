@@ -1,0 +1,35 @@
+@font-face{
+	font-family: MyWebFont;
+	src: url(https://googledrive.com/host/0BxJlrr-sVc32dHFZWk14dEtjMDA/lmroman10-regular-webfont.eot) format('eot'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32dHFZWk14dEtjMDA/lmroman10-regular-webfont.woff) format('woff'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32dHFZWk14dEtjMDA/lmroman10-regular-webfont.ttf) format('truetype'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32dHFZWk14dEtjMDA/lmroman10-regular-webfont.svg) format('svg');
+}
+
+@font-face{
+	font-family: MyWebFont;
+	src: url(https://googledrive.com/host/0BxJlrr-sVc32bFFnVlpEeWFpNGc/lmroman10-italic-webfont.eot) format('eot'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32bFFnVlpEeWFpNGc/lmroman10-italic-webfont.woff) format('woff'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32bFFnVlpEeWFpNGc/lmroman10-italic-webfont.ttf) format('truetype'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32bFFnVlpEeWFpNGc/lmroman10-italic-webfont.svg) format('svg');
+	font-style: italic;
+}
+
+@font-face{
+	font-family: MyWebFont;
+	src: url(https://googledrive.com/host/0BxJlrr-sVc32a2JPQ19XSEFVOHM/lmroman10-bold-webfont.eot) format('eot'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32a2JPQ19XSEFVOHM/lmroman10-bold-webfont.woff) format('woff'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32a2JPQ19XSEFVOHM/lmroman10-bold-webfont.ttf) format('truetype'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32a2JPQ19XSEFVOHM/lmroman10-bold-webfont.svg) format('svg');
+	font-weight: bold;
+}
+
+@font-face{
+	font-family: MyWebFont;
+	src: url(https://googledrive.com/host/0BxJlrr-sVc32N2FmdVZ0LURFS1k/lmroman10-bolditalic-webfont.eot) format('eot'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32N2FmdVZ0LURFS1k/lmroman10-bolditalic-webfont.woff) format('woff'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32N2FmdVZ0LURFS1k/lmroman10-bolditalic-webfont.ttf) format('truetype'),
+		  url(https://googledrive.com/host/0BxJlrr-sVc32N2FmdVZ0LURFS1k/lmroman10-bolditalic-webfont.svg) format('svg');
+	font-style: italic;
+	font-weight: bold;
+}
